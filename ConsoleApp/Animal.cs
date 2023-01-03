@@ -26,7 +26,7 @@ namespace ConsoleApp
         private void show()
         {
             int days_age = this.age * 365;
-            Console.WriteLine($"{this.name} двигается со скоростью {this.speed} километров в час. Имеет {this.color} цвет и ему {days_age} дней.\n");
+            Console.WriteLine($"{this.name} бегает со скоростью {this.speed} километров в час. Имеет {this.color} цвет и ему {days_age} дней.\n");
         }
     }
 }
