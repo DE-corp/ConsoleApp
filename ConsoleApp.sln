@@ -7,6 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\Co
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{25926597-3C38-4633-BD3A-BBEEB9B735EB}"
 	ProjectSection(SolutionItems) = preProject
+		branch1.md = branch1.md
 		README.md = README.md
 	EndProjectSection
 EndProject
